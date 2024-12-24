@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+
+# Arquivos
+api.zip
+Procfile
+
+# Docker
+*.log
+docker-compose.yml
+.dockerignore
